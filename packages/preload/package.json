@@ -1,0 +1,10 @@
+{
+  "name": "preload",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.0.1"
+  }
+}
